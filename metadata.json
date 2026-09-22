@@ -1,0 +1,6 @@
+{
+  "name": "Sai blite International Senior Secondary School Lucky Draw",
+  "description": "Official Lucky Draw countdown for Sai blite International Senior Secondary School. Ticket draw period from 26 September to 10 October, with results drawn on 10 October.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
